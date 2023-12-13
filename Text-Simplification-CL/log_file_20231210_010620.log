@@ -1,0 +1,57 @@
+2023-12-10 01:06:28,018:INFO: Starting ssh for int_adv
+2023-12-10 01:06:28,020:INFO: Starting training with following parameters: {'base_path': './', 'src_train': 'dataset/ADV_INT/INT.txt', 'tgt_train': 'dataset/ADV_INT/ADV.txt', 'src_valid': 'dataset/src_valid.txt', 'tgt_valid': 'dataset/tgt_valid.txt', 'ref_valid': 'dataset/ref_valid.pkl', 'best_model': 'cp/int_adv/model.pt', 'checkpoint_path': 'cp/int_adv/model_ckpt.pt', 'seed': 540}
+2023-12-10 01:06:30,066:INFO: Epoch: 0 | iter: 10 | avg. train loss: 3.369328686967492 | time elapsed: 2.00430965423584
+2023-12-10 01:06:31,135:INFO: Epoch: 0 | iter: 20 | avg. train loss: 0.3843783796273783 | time elapsed: 3.074126958847046
+2023-12-10 01:06:32,245:INFO: Epoch: 0 | iter: 30 | avg. train loss: 0.11271893140514955 | time elapsed: 4.183169841766357
+2023-12-10 01:06:33,310:INFO: Epoch: 0 | iter: 40 | avg. train loss: 0.1167977519644467 | time elapsed: 5.248190402984619
+2023-12-10 01:06:34,297:INFO: Epoch: 0 | iter: 50 | avg. train loss: 0.1977426101650357 | time elapsed: 6.235659122467041
+2023-12-10 01:06:35,320:INFO: Epoch: 0 | iter: 60 | avg. train loss: 0.13016588357179093 | time elapsed: 7.258811950683594
+2023-12-10 01:06:36,296:INFO: Epoch: 0 | iter: 70 | avg. train loss: 0.0564113608281777 | time elapsed: 8.23484992980957
+2023-12-10 01:06:37,271:INFO: Epoch: 0 | iter: 80 | avg. train loss: 0.10091916983171356 | time elapsed: 9.20964503288269
+2023-12-10 01:06:38,165:INFO: Epoch: 0 | iter: 90 | avg. train loss: 0.0813405599833383 | time elapsed: 10.103997707366943
+2023-12-10 01:06:38,995:INFO: Epoch: 0 | iter: 100 | avg. train loss: 0.06639443646439913 | time elapsed: 10.933275699615479
+2023-12-10 01:06:39,837:INFO: Epoch: 0 | iter: 110 | avg. train loss: 0.053794797291004885 | time elapsed: 11.775516033172607
+2023-12-10 01:06:40,703:INFO: Epoch: 0 | iter: 120 | avg. train loss: 0.07982914542277736 | time elapsed: 12.641880750656128
+2023-12-10 01:06:41,609:INFO: Epoch: 0 | iter: 130 | avg. train loss: 0.039441542936596866 | time elapsed: 13.547168493270874
+2023-12-10 01:06:42,514:INFO: Epoch: 0 | iter: 140 | avg. train loss: 0.06521097663267403 | time elapsed: 14.452574253082275
+2023-12-10 01:06:43,441:INFO: Epoch: 0 | iter: 150 | avg. train loss: 0.03339891103041226 | time elapsed: 15.379184484481812
+2023-12-10 01:06:44,351:INFO: Epoch: 0 | iter: 160 | avg. train loss: 0.04070261143319786 | time elapsed: 16.28935718536377
+2023-12-10 01:06:45,267:INFO: Epoch: 0 | iter: 170 | avg. train loss: 0.06725047248641372 | time elapsed: 17.205184936523438
+2023-12-10 01:06:46,278:INFO: Epoch: 0 | iter: 180 | avg. train loss: 0.03208990638176367 | time elapsed: 18.21649169921875
+2023-12-10 01:06:47,487:INFO: Epoch: 0 | iter: 190 | avg. train loss: 0.08001600813314358 | time elapsed: 19.425342559814453
+2023-12-10 01:06:48,549:INFO: Epoch: 0 | iter: 200 | avg. train loss: 0.04963521234323896 | time elapsed: 20.487597465515137
+2023-12-10 01:06:49,577:INFO: Epoch: 0 | iter: 210 | avg. train loss: 0.09903178267216942 | time elapsed: 21.51608967781067
+2023-12-10 01:06:50,651:INFO: Epoch: 0 | iter: 220 | avg. train loss: 0.042820237059423005 | time elapsed: 22.58976411819458
+2023-12-10 01:06:51,648:INFO: Epoch: 0 | iter: 230 | avg. train loss: 0.05694573732711824 | time elapsed: 23.58692765235901
+2023-12-10 01:06:52,520:INFO: Epoch: 0 | iter: 240 | avg. train loss: 0.04204929816102471 | time elapsed: 24.458571910858154
+2023-12-10 01:06:53,382:INFO: Epoch: 0 | iter: 250 | avg. train loss: 0.11269926280338527 | time elapsed: 25.320464372634888
+2023-12-10 01:06:54,250:INFO: Epoch: 0 | iter: 260 | avg. train loss: 0.0598008815541161 | time elapsed: 26.188544988632202
+2023-12-10 01:06:55,122:INFO: Epoch: 0 | iter: 270 | avg. train loss: 0.060661463399480205 | time elapsed: 27.0604465007782
+2023-12-10 01:06:56,009:INFO: Epoch: 0 | iter: 280 | avg. train loss: 0.07592207223784232 | time elapsed: 27.94789695739746
+2023-12-10 01:06:56,887:INFO: Epoch: 0 | iter: 290 | avg. train loss: 0.052303662211058075 | time elapsed: 28.825228452682495
+2023-12-10 01:06:57,740:INFO: Epoch: 0 | iter: 300 | avg. train loss: 0.02448253156368481 | time elapsed: 29.678659915924072
+2023-12-10 01:06:58,598:INFO: Epoch: 0 | iter: 310 | avg. train loss: 0.01713595335431576 | time elapsed: 30.536394357681274
+2023-12-10 01:06:59,449:INFO: Epoch: 0 | iter: 320 | avg. train loss: 0.04386408350711521 | time elapsed: 31.387141942977905
+2023-12-10 01:07:00,309:INFO: Epoch: 0 | iter: 330 | avg. train loss: 0.026869089863824247 | time elapsed: 32.24752497673035
+2023-12-10 01:07:01,175:INFO: Epoch: 0 | iter: 340 | avg. train loss: 0.039276434764869556 | time elapsed: 33.113505601882935
+2023-12-10 01:07:02,036:INFO: Epoch: 0 | iter: 350 | avg. train loss: 0.010536208973194013 | time elapsed: 33.974353075027466
+2023-12-10 01:07:02,894:INFO: Epoch: 0 | iter: 360 | avg. train loss: 0.04261878360761413 | time elapsed: 34.83241248130798
+2023-12-10 01:07:03,747:INFO: Epoch: 0 | iter: 370 | avg. train loss: 0.025260058972614845 | time elapsed: 35.685258865356445
+2023-12-10 01:07:04,603:INFO: Epoch: 0 | iter: 380 | avg. train loss: 0.03764997275520327 | time elapsed: 36.54175090789795
+2023-12-10 01:07:05,461:INFO: Epoch: 0 | iter: 390 | avg. train loss: 0.028938343654244567 | time elapsed: 37.40002727508545
+2023-12-10 01:07:06,324:INFO: Epoch: 0 | iter: 400 | avg. train loss: 0.0971561863715568 | time elapsed: 38.26264810562134
+2023-12-10 01:07:07,183:INFO: Epoch: 0 | iter: 410 | avg. train loss: 0.0946765449166537 | time elapsed: 39.1212944984436
+2023-12-10 01:07:08,034:INFO: Epoch: 0 | iter: 420 | avg. train loss: 0.019181490873987808 | time elapsed: 39.97231864929199
+2023-12-10 01:07:08,885:INFO: Epoch: 0 | iter: 430 | avg. train loss: 0.011695834332384107 | time elapsed: 40.82398772239685
+2023-12-10 01:07:09,732:INFO: Epoch: 0 | iter: 440 | avg. train loss: 0.02476062269373802 | time elapsed: 41.67088270187378
+2023-12-10 01:07:10,653:INFO: Epoch: 0 | iter: 450 | avg. train loss: 0.018728744986378432 | time elapsed: 42.591474771499634
+2023-12-10 01:07:11,510:INFO: Epoch: 0 | iter: 460 | avg. train loss: 0.02747454178034141 | time elapsed: 43.448997020721436
+2023-12-10 01:07:12,362:INFO: Epoch: 0 | iter: 470 | avg. train loss: 0.02840745935155136 | time elapsed: 44.30036664009094
+2023-12-10 01:07:13,219:INFO: Epoch: 0 | iter: 480 | avg. train loss: 0.0168425754402227 | time elapsed: 45.15784001350403
+2023-12-10 01:07:14,103:INFO: Epoch: 0 | iter: 490 | avg. train loss: 0.020095953970370867 | time elapsed: 46.042093992233276
+2023-12-10 01:07:14,959:INFO: Epoch: 0 | iter: 500 | avg. train loss: 0.03449721625681483 | time elapsed: 46.897778272628784
+2023-12-10 01:07:15,809:INFO: Epoch: 0 | iter: 510 | avg. train loss: 0.01346013366210765 | time elapsed: 47.747952699661255
+2023-12-10 01:07:16,662:INFO: Epoch: 0 | iter: 520 | avg. train loss: 0.017352707942763695 | time elapsed: 48.6007866859436
+2023-12-10 01:07:17,525:INFO: Epoch: 0 | iter: 530 | avg. train loss: 0.03755461055359574 | time elapsed: 49.463969469070435
+2023-12-10 01:12:16,736:INFO: Completed Epoch: 0 | avg. eval loss: 0.00014 | blue score: 0.40847080468593544| Sari score: 0.46240557193144943 | time elapsed: 298.4042057991028
+2023-12-10 01:12:16,745:INFO: New best model found

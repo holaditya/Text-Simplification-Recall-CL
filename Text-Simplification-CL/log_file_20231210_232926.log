@@ -1,0 +1,2 @@
+2023-12-10 23:29:33,829:INFO: *****************Starting training for ele_int*******************************
+2023-12-10 23:29:33,829:INFO: Starting training with following parameters: {'base_path': './', 'src_train': 'dataset/ELE_INT/ELE.txt', 'tgt_train': 'dataset/ELE_INT/INT.txt', 'src_valid': 'dataset/src_valid.txt', 'tgt_valid': 'dataset/tgt_valid.txt', 'ref_valid': 'dataset/ref_valid.pkl', 'best_model': 'cp/ele_int/model.pt', 'checkpoint_path': 'checkpoint/simp_sch/model_ckpt.pt', 'seed': 540}
